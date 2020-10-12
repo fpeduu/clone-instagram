@@ -7,10 +7,10 @@ Exercício feito para aplicação de conhecimentos em HTML/CSS.
 ### Screenshots
 
 ##### Visão num computador
-<img src='https://github.com/fpeduu/clone-instagram/blob/master/github-img/computer.png'>
+<img src='https://github.com/fpeduu/clone-instagram/blob/main/github-img/computer.png'>
 
 ##### Visão num tablet
-<img src='https://github.com/fpeduu/clone-instagram/blob/master/github-img/tablet.png'>
+<img src='https://github.com/fpeduu/clone-instagram/blob/main/github-img/tablet.png'>
 
 ##### Visão num celular
-<img src='https://github.com/fpeduu/clone-instagram/blob/master/github-img/phone.png'>
+<img src='https://github.com/fpeduu/clone-instagram/blob/main/github-img/phone.png'>
